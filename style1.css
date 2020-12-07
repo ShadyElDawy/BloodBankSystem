@@ -1,0 +1,225 @@
+#new-search-area {
+
+  clear: both;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 150px;
+width:800px;
+}
+.table{
+  background-color: white;
+}
+.input-group-addon{
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border-top: 1px solid #db0a18;
+  border-bottom: 1px solid #db0a18;
+  border-left: 1px solid #db0a18;
+  border-top-left-radius: 50;
+  border-bottom-left-radius: 50;
+
+}
+#new-search-area input {
+  width: 370px;
+  height: 40px;
+
+  outline: none;
+  font-size: 13px;
+  padding: 10px;
+  margin: auto;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 50;
+  border-bottom-right-radius: 50;
+  border-left: 0;
+  border-top: 1px solid #db0a18;
+  border-bottom: 1px solid #db0a18;
+  border-right: 1px solid #db0a18;
+
+
+
+
+}
+#red {
+  width: auto;;
+  margin: auto;
+  background-color: rgp(120,0,0);
+
+}
+
+
+#wh {
+  width: 200px;
+
+}
+.container{
+background-color: #DEB887;
+opacity: 0.83;
+display:block;
+background-image: url("21.jpg");
+
+background-repeat: repeat;
+background-size: 32%;
+border-radius: 25px;
+   border: 2px solid red;
+   padding: 20px;
+
+
+
+
+}
+
+#rr {
+  max-width: 100%;
+  max-height: 100%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.container {
+width: 800px;
+margin: 0 110px;
+}
+
+.navbar {
+
+
+
+  overflow: hidden;
+  background-color: transparent;
+  font-family: "Century Gothic";
+
+  border-radius: 10px;
+
+     margin-bottom: 6;
+     padding-top: 2.5;
+     padding-bottom: 15;
+
+}
+
+.navbar a {
+  float: left;
+  font-size: 13px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+transition: all .5s ease;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+cursor: pointer;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #fa5545;
+  padding-left: 30px;
+  color: #fff;
+}
+.rel{
+  margin: auto;
+    width: 50%;
+    height: 70%;
+    opacity:0.9;
+    margin-left: 250;
+}
+.logo{
+  margin-left: 15;
+  height: 12%;
+  opacity: 500;
+
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.con {
+float: right;
+}
+
+h1 {
+    text-shadow: 5px red;
+    color: black;
+    font-family: "Century Gothic";
+    margin-top: 0;
+    margin-right: 20;
+  font-weight: bold;
+  font-size: 30px;
+}
+.btn{
+  font-size: 10px;
+}
+#rr{
+
+  position: relative;
+
+}
+
+.navbar{
+  position: relative;
+}
+
+
+.active, .btn:hover {
+background-color: #db0a18;
+color: white;
+}
+
+body
+{
+  background-image: url("red-blood-cells-wallpaper.jpg");
+
+  background-size: 137%;
+
+}
+
+
+.container-fluid
+{
+	background-image: cover;
+}
+
+.container-fluid
+{
+  background-image: cover;
+	background-color: rgb(120,0,0);
+}
